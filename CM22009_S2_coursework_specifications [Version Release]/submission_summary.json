@@ -1,0 +1,16 @@
+{
+  "student_id": "REPLACE_WITH_USERID",
+  "python_version": "3.11.13",
+  "torch_version": "2.10.0",
+  "split_sizes": {
+    "train": 12165,
+    "val": 2607,
+    "test": 2607
+  },
+  "baseline_metrics_val": {},
+  "tiny_overfit_metrics_train": {},
+  "best_run_name": null,
+  "best_val_metrics": {},
+  "best_test_metrics": {},
+  "experiments": []
+}
