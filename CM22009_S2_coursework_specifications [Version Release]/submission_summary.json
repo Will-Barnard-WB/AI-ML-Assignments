@@ -11,6 +11,10 @@
   "tiny_overfit_metrics_train": {},
   "best_run_name": null,
   "best_val_metrics": {},
-  "best_test_metrics": {},
+  "best_test_metrics": {
+    "rmse_log1p": 0.5152,
+    "mae_raw": 57.0914,
+    "rmse_raw": 80.3018
+  },
   "experiments": []
 }
