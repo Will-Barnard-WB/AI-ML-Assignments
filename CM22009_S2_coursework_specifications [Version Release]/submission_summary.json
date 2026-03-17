@@ -12,9 +12,9 @@
   "best_run_name": null,
   "best_val_metrics": {},
   "best_test_metrics": {
-    "rmse_log1p": 0.5152,
-    "mae_raw": 57.0914,
-    "rmse_raw": 80.3018
+    "rmse_log1p": 0.5585,
+    "mae_raw": 58.5801,
+    "rmse_raw": 80.3328
   },
   "experiments": []
 }
