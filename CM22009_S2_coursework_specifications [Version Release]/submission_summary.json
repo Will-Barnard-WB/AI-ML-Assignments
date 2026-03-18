@@ -1,5 +1,5 @@
 {
-  "student_id": "REPLACE_WITH_USERID",
+  "student_id": "20952",
   "python_version": "3.11.13",
   "torch_version": "2.10.0",
   "split_sizes": {
@@ -7,10 +7,18 @@
     "val": 2607,
     "test": 2607
   },
-  "baseline_metrics_val": {},
+  "baseline_metrics_val": {
+    "rmse_log1p": 1.0436,
+    "mae_raw": 110.6162,
+    "rmse_raw": 141.6182
+  },
   "tiny_overfit_metrics_train": {},
-  "best_run_name": null,
-  "best_val_metrics": {},
+  "best_run_name": "adam_mae_lr0.001",
+  "best_val_metrics": {
+    "rmse_log1p": 0.3131,
+    "mae_raw": 40.9223,
+    "rmse_raw": 63.9843
+  },
   "best_test_metrics": {
     "rmse_log1p": 0.5585,
     "mae_raw": 58.5801,
